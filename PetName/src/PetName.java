@@ -2,7 +2,7 @@
 public class PetName {
 	//street = street you grew up on
 	//weather = weather it was yesterday
-	//feces = number of times you stepped in poop, any poop.
+	//feces = number of times you stepped in poop, any feces.
 	public static String petName(String street, String weather, int feces) {
 		return weather + " " + street + "tonson " + feces;
 	}
